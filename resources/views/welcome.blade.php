@@ -11,6 +11,7 @@
 
     </head>
     <body>
+        <h1>Pippo</h1>
         <div id="app">
         </div>
         <script src="{{asset('js/app.js')}}"></script>
